@@ -1,0 +1,3 @@
+"ip":Peyaam.aternos.me",
+"port":13223",
+"name":Boter"
